@@ -1,0 +1,4 @@
+[submodule "blockly"]
+	path = blockly
+	url = https://github.com/cyb3rdog/blockly.git
+	branch = Factory-Release
